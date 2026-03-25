@@ -24,3 +24,5 @@ Notebooks fundamentos programacion Python
 11. Compresion de Listas ["Compresion Listas"](./notebooks/Compresion_listas.ipynb)
 
 12. Programacion funcional ["Programacion funcional"](./notebooks/programacion_funcional.ipynb)
+
+13. Proyecto con Maven ["Proyecto Java Maven"](./notebooks/Crear%20proyecto%20con%20maven.ipynb)
