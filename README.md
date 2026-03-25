@@ -7,7 +7,7 @@ Notebooks fundamentos programacion Python
 
 3. Argumentos ["notebooks Argumentos"](./notebooks/argumentos.ipynb)
 
-4. Objetos mutables e inmutables ["notebooks objetos mutables e inmutables](./notebooks/apuntes%20objetos%20mutables%20e%20inmutables.ipynb)
+4. Objetos mutables e inmutables ["notebooks objetos mutables e inmutables](./notebooks/apuntes_objetos_mutables_inmutables.ipynb)
 
 5. Listas y fundamentos ["notebooks listas y fundamentos"](./notebooks/fundamentals.ipynb)
 
@@ -25,4 +25,4 @@ Notebooks fundamentos programacion Python
 
 12. Programacion funcional ["Programacion funcional"](./notebooks/programacion_funcional.ipynb)
 
-13. Proyecto con Maven ["Proyecto Java Maven"](./notebooks/Crear%20proyecto%20con%20maven.ipynb)
+13. Proyecto con Maven ["Proyecto Java Maven"](./notebooks/Crear_proyecto_java_maven.ipynb)
